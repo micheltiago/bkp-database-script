@@ -4,7 +4,7 @@ Visualizando permissões dos usuários no banco MySQL
 
 Criando um novo usuário no banco MySQL e Permitindo acessos.
 
-CREATE USER api@localhost IDENTIFIED BY 't1ag0m1ch3l';
+CREATE USER api@localhost IDENTIFIED BY 'xxxxxxxx';
 GRANT ALL PRIVILEGES ON * . * TO api@localhost;
 FLUSH PRIVILEGES;
 
